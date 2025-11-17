@@ -1,0 +1,37 @@
+# Core Data Science Libraries
+pandas==1.5.3
+numpy==1.24.3
+scipy==1.10.1
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Machine Learning
+scikit-learn==1.2.2
+xgboost==1.7.5
+lightgbm==3.3.5
+
+# Handle Imbalanced Data
+imbalanced-learn==0.10.1
+
+# Model Interpretation
+shap==0.41.0
+
+# Web Application
+streamlit==1.22.0
+
+# Jupyter Notebooks
+jupyter==1.0.0
+notebook==6.5.4
+ipykernel==6.23.1
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+six==1.16.0
+
+# Optional: For saving models
+joblib==1.2.0
+pickle5==0.0.12
