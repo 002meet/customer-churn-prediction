@@ -34,4 +34,3 @@ six==1.16.0
 
 # Optional: For saving models
 joblib
-pickle5==0.0.12
