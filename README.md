@@ -2,6 +2,9 @@
 
 A machine learning project that predicts customer churn for a telecom company and provides actionable recommendations to reduce customer loss.
 
+🚀 **Live Demo:**  
+https://customer-churn-prediction-hxwvsyq2yb4xczyjsfjniu.streamlit.app/
+
 ## Project Overview
 
 This project analyzes customer data to predict which customers are likely to churn (leave the service). The model helps businesses identify at-risk customers early so they can take proactive retention measures.
