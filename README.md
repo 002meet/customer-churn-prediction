@@ -43,8 +43,7 @@ customer-churn-prediction/
 │
 ├── churn_prediction_pipeline.py                 # End-to-end ML pipeline
 │                                   
-├── app/
-│    └──streamlit_app.py                         # Interactive web dashboard
+├── streamlit_app.py                             # Interactive web dashboard
 │
 ├── requirements.txt                             # Dependencies
 └── README.md                                    # Documentation
